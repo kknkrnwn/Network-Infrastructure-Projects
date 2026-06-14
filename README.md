@@ -1,4 +1,4 @@
-# JNA Network Topology Design
+# Network-Infrastructure-Projects
 
 A network topology simulation project developed as part of the **Junior Network Administrator (JNA)** practical assignment. This project demonstrates the implementation of IP addressing, subnetting, router-to-router connectivity, wireless configuration, and basic network validation using Cisco Packet Tracer.
 
